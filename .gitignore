@@ -1,0 +1,7 @@
+_site
+_drafts
+npm-debug.log
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*.sh
