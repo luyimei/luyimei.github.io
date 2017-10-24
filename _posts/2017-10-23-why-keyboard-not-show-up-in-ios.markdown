@@ -4,7 +4,7 @@ title:      "为什么js的focus()方法在iOS下拉不起键盘"
 subtitle:   "记一次踩坑的经历"
 date:       2017-10-23
 author:     "YM"
-header-img: "img/sky.jpg"
+header-img: "img/posts/sky.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
