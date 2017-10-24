@@ -82,3 +82,5 @@ featured-condition-size: 0              # A tag will be featured if the size of 
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
+# show back to top in posts
+backtop: true

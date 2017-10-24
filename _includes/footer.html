@@ -243,3 +243,20 @@
     });
 </script>
 {% endif %}
+
+{% if site.backtop %}
+<!-- 回到顶部 -->
+<script src="{{ "/js/backtop.js " | prepend: site.baseurl }}"></script>
+<style>
+    .m-back-top{
+        position: fixed;
+        bottom: 68px;
+        right: 16px;
+        width: 35px;
+        height: 35px;
+        cursor: pointer;
+        background: url('{{ "/img/backtop.png " | prepend: site.baseurl }}');
+        background-size: 35px 35px;
+    }
+</style>
+{% endif %}
